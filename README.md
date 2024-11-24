@@ -2,6 +2,8 @@
 
 This project demonstrates how to build a real estate price prediction system from scratch. It includes a machine learning model, a Python Flask server, and a front-end website. The system predicts property prices based on user input, such as square footage, number of bedrooms, etc.
 
+
+![alt text](image.png)
 ## Features
 
 1. **End-to-End Workflow**:
